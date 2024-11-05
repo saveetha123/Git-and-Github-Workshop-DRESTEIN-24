@@ -1,5 +1,5 @@
 # Git-and-Github-Workshop-DRESTEIN-24
-NAME:  
-REGISTER NUMBER :  
-DEPARTMENT :  
-YEAR :  
+NAME:  Dhanishkaa .T
+REGISTER NUMBER :  24900994
+DEPARTMENT :  ECE
+YEAR :  1
